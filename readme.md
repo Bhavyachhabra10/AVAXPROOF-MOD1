@@ -42,7 +42,7 @@ avalanche --version
 ### Create a Subnet
 1. Creation
  ```sh
-avalanche subnet create prashantSubnet
+avalanche subnet create bhavyaSubnet
  ```
 Select following options
 
@@ -69,7 +69,7 @@ Select follwoing option
 ### Deploy Subnet 
 
  ```sh
-avalanche subnet deploy prashantSubnet
+avalanche subnet deploy bhavyaSubnet
  ```
 Select 
  ```sh
